@@ -1,4 +1,4 @@
-Algoritmo CalculadoraBasica
+
 	Definir primer_numero, segundo_numero, opc Como Entero
 	
 	Escribir "Este programa funcionara como una calculadora basica"
@@ -15,7 +15,7 @@ Algoritmo CalculadoraBasica
 		Escribir "5. Salir";
 		Leer opc
 		Segun opc Hacer
-			1: imprimir "El resultado es: ", (primer_numero+segundo_numero);
+			
 			2: imprimir "El resultado es: ", (primer_numero-segundo_numero);
 			3: imprimir "El resultado es: ", (primer_numero*segundo_numero);
 			4: imprimir "El resultado es: ", (primer_numero/segundo_numero);
